@@ -1,0 +1,56 @@
+coluna_original,coluna_no_dataset
+Evito compartilhar meus dados pessoais por aplicativos de mensagem ou redes sociais.,beh_q43_evitar_compartilhar_dados
+"Uso a mesma senha para diferentes sistemas (como SIGAA, Moodle, e-mail, redes sociais etc.).",beh_q44_reutiliza_senha
+Compartilho senhas com colegas para facilitar o acesso a serviços acadêmicos.,beh_q45_compartilha_senha
+"Deixo meu computador ou celular desbloqueado enquanto me afasto rapidamente (ex: para beber água, ir ao banheiro).",beh_q46_deixa_desbloqueado
+Acesso contas pessoais ou dados sensíveis em computadores públicos ou de uso coletivo.,beh_q47_conta_pessoal_pc_publico
+"Conecto-me a redes Wi-Fi abertas ou desconhecidas sem usar nenhum tipo de proteção (VPN, navegador seguro).",beh_q48_wifi_sem_protecao
+"Já cliquei em links de origem duvidosa enviados por e-mail, grupos ou redes sociais.",beh_q49_clica_link_duvidoso
+Compartilho arquivos ou links sem verificar se estão protegidos ou se contêm informações sensíveis.,beh_q50_compartilha_sem_verificar
+"Atualizo o sistema operacional dos meus dispositivos (celular, computador) sempre que uma nova versão é disponibilizada.",cons_q37_atualiza_so
+Evito deixar senhas salvas em computadores compartilhados ou públicos.,cons_q38_nao_salva_senhas
+Utilizo senhas diferentes para cada sistema acadêmico ou serviço online.,cons_q39_senhas_diferentes
+Bloqueio a tela do meu computador ou celular sempre que me afasto.,cons_q40_bloqueia_tela
+Fico atento(a) a sinais de golpes ou mensagens suspeitas em e-mails ou redes sociais.,cons_q41_atento_golpes
+Costumo sair da minha conta (logout) ao terminar de usar um sistema da universidade em um computador público.,cons_q42_logout_publico
+Entendo o funcionamento de autenticação em dois fatores (2FA).,likert_q25_2fa
+Sei identificar um link suspeito ou uma tentativa de golpe digital.,likert_q26_link_suspeito
+Tenho conhecimento sobre como proteger meus dispositivos ao utilizar redes públicas (como o Wi-Fi da universidade).,likert_q27_protecao_rede_publica
+"Reconheço os riscos de deixar meu computador ou celular desbloqueado em locais compartilhados, como salas de aula, laboratórios ou biblioteca.",likert_q28_risco_desbloqueado
+"Sei configurar permissões de acesso (visibilidade, edição, compartilhamento) em arquivos ou sistemas que utilizo na universidade (como Google Drive, Moodle, GitHub, etc.).",likert_q29_permissoes
+Tenho cuidado ao compartilhar informações pessoais ou acadêmicas em redes sociais.,likert_q30_compartilha_social
+Qual destas senhas é considerada mais segura?,obj_q20_senha_segura
+O que é Phishing?,obj_q21_phishing
+Por que é importante manter sistemas e dispositivos atualizados no contexto da segurança da informação?,obj_q22_atualizacoes
+Qual é a forma mais segura de acessar um site ou conta em uma rede Wi-Fi pública (ex: da universidade)?,obj_q23_wifi_publica
+Qual é a melhor prática em relação ao uso de senhas?,obj_q24_pratica_senhas
+"Por que você acredita que estudantes universitários adotam práticas inseguras no uso da tecnologia, mesmo sabendo dos riscos?",open_q51_motivos_inseguranca
+"Você já teve alguma disciplina, palestra ou orientação sobre segurança da informação na universidade? Se sim, o que aprendeu? Se não, sente falta disso?",open_q52_orientacao_universidade
+"Existe alguma prática que você considera segura, mas que na sua rotina você tem dificuldade de manter? Por quê?",open_q53_dificuldade_pratica_segura
+"Na sua opinião, a universidade contribui para um ambiente digital seguro? O que poderia melhorar?",open_q54_melhorias_universidade
+Que tipo de orientação ou recurso você gostaria de ter para se proteger melhor no ambiente digital universitário?,open_q55_recursos_desejados
+"Com qual área da tecnologia você mais se identifica/atua ou tem interesse em atuar?
+
+Exemplos: desenvolvimento de software, teste de sistemas (QA), análise de dados, cibersegurança, suporte técnico, design de interfaces, gestão de projetos, entre outros.",perfil_area_interesse
+Participa ou já participou de alguma das atividades abaixo na área de TI?,perfil_ativ_ti
+Nível de conhecimento de tecnologia da informação (autoavaliação) ,perfil_autoavaliacao_ti
+Você autoriza ser contatado(a) para uma possível entrevista ou esclarecimento?,perfil_autoriza_contato
+Você já teve contato com segurança da informação fora da universidade?,perfil_contato_externo
+Curso,perfil_curso
+Dispositivos que utiliza para acessar a internet na universidade (pode marcar mais de um):,perfil_dispositivos
+Identidade de gênero,perfil_genero
+Idade,perfil_idade
+Você já sofreu ou presenciou algum incidente de segurança digital?,perfil_incidente
+Com que frequência você utiliza os laboratórios da Universidade?,perfil_lab_freq
+Você já ouviu falar do termo “segurança da informação”?,perfil_ouviu_termo
+Período atual,perfil_periodo
+Já teve alguma disciplina ou atividade relacionada à segurança da informação?,perfil_si_disc_ativ
+Sistema operacional que mais utiliza no dia a dia,perfil_so
+Tempo médio de uso de computador/internet por dia,perfil_tempo_uso
+Já usou Wi-Fi público/aberto dentro da universidade?,perfil_wifi_publico
+Acredito que posso ser vítima de golpes digitais mesmo tomando alguns cuidados.,risk_q31_vitima_golpes
+Considero arriscado utilizar redes Wi-Fi públicas ou abertas na universidade.,risk_q32_wifi_arriscado
+Fico receoso(a) de acessar minhas contas pessoais em computadores dos laboratórios.,risk_q33_receio_labs
+Me preocupo com a possibilidade de colegas ou desconhecidos acessarem meus arquivos se deixo o computador desbloqueado.,risk_q34_receio_arquivos
+"Penso que, se não tomar cuidado, posso ter meus dados pessoais ou acadêmicos vazados.",risk_q35_medovazamento
+Já evitei realizar alguma ação online por medo de ser enganado(a) ou invadido(a).,risk_q36_evitacao
