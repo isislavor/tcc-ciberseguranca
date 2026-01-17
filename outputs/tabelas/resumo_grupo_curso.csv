@@ -1,0 +1,5 @@
+,idx_comportamento_inseguro,idx_comportamento_inseguro,idx_comportamento_inseguro,idx_conscientizacao,idx_conscientizacao,idx_conscientizacao,idx_conhecimento_objetivo,idx_conhecimento_objetivo,idx_conhecimento_objetivo,idx_conhecimento_declarado,idx_conhecimento_declarado,idx_conhecimento_declarado,idx_percepcao_risco,idx_percepcao_risco,idx_percepcao_risco
+,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std
+grupo_curso,,,,,,,,,,,,,,,
+Ciência da Computação (CC),21,2.2448979591836737,0.7452473321024576,21,4.333333333333333,0.6166620702163684,21,4.095238095238095,1.2611408289624875,21,3.8412698412698414,0.9013511315984811,21,4.031746031746032,0.7739133019542944
+Engenharia de Software (ES),10,2.1,0.6869367410233641,10,4.371428571428572,0.3380617018914066,10,4.5,0.5270462766947299,10,4.1,0.45946829173634074,10,4.083333333333334,0.6860605019571373

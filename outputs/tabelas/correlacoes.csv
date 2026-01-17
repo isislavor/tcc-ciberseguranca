@@ -1,0 +1,5 @@
+variavel_x,variavel_y,rho_spearman,p_valor
+idx_conhecimento_objetivo,idx_comportamento_inseguro,-0.2569735158701784,0.16285428488119483
+idx_conhecimento_declarado,idx_comportamento_inseguro,-0.4476998115105353,0.011553321610506552
+idx_percepcao_risco,idx_comportamento_inseguro,-0.41222461045233927,0.021200686051522345
+idx_conscientizacao,idx_comportamento_inseguro,-0.6754758020372287,3.055374925878317e-05

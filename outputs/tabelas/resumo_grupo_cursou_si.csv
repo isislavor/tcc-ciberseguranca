@@ -1,0 +1,6 @@
+,idx_comportamento_inseguro,idx_comportamento_inseguro,idx_comportamento_inseguro,idx_conscientizacao,idx_conscientizacao,idx_conscientizacao,idx_conhecimento_objetivo,idx_conhecimento_objetivo,idx_conhecimento_objetivo,idx_conhecimento_declarado,idx_conhecimento_declarado,idx_conhecimento_declarado,idx_percepcao_risco,idx_percepcao_risco,idx_percepcao_risco
+,count,mean,std,count,mean,std,count,mean,std,count,mean,std,count,mean,std
+grupo_cursou_si,,,,,,,,,,,,,,,
+Não,16,2.196428571428571,0.5805814584810408,16,4.375,0.43291450193588404,16,4.125,1.2041594578792294,16,3.8125,0.7299797054510285,16,4.0625,0.6718548123582125
+Não me lembro,4,2.1428571428571432,1.0753895038701158,4,4.285714285714286,1.0101525445522108,4,3.75,1.2583057392117916,4,4.208333333333333,1.3701513839042807,4,4.416666666666667,0.8443713418650367
+Sim,11,2.220779220779221,0.8338835536668575,11,4.324675324675325,0.5232976641157655,11,4.545454545454546,0.8201995322647243,11,3.984848484848485,0.6643900521637432,11,3.893939393939394,0.8071648849616488
