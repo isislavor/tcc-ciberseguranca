@@ -73,7 +73,7 @@ Os procedimentos são realizados de forma incremental, com versionamento a cada 
 
 ## 📌 Status do Projeto
 
-🟡 Em desenvolvimento — análise de dados em andamento.
+🟢 Concluído, pórem com possibilidade de revisão ou trabalhos futuros.
 
 ---
 ## 📌 Autoria
