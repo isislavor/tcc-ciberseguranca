@@ -1,6 +1,6 @@
 # TCC – Segurança da Informação na Formação Acadêmica
 
-Este repositório privado é utilizado para a organização, versionamento e reprodutibilidade da análise de dados do Trabalho de Conclusão de Curso desenvolvido no curso de **Ciência da Computação** da **Universidade Federal do Ceará (UFC) – Campus Russas**.
+Este repositório é utilizado para a organização, versionamento e reprodutibilidade da análise de dados do Trabalho de Conclusão de Curso desenvolvido no curso de **Ciência da Computação** da **Universidade Federal do Ceará (UFC) – Campus Russas**.
 
 O projeto investiga a relação entre **conhecimento técnico**, **percepção de risco** e **comportamentos digitais** relacionados à segurança da informação entre estudantes universitários de cursos de tecnologia.
 
