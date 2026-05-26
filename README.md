@@ -1,6 +1,6 @@
 # TCC – Segurança da Informação na Formação Acadêmica
 
-Este repositório é utilizado para a organização, versionamento e reprodutibilidade da análise de dados do Trabalho de Conclusão de Curso desenvolvido no curso de **Ciência da Computação** da **Universidade Federal do Ceará (UFC) – Campus Russas**.
+Este repositório é utilizado para a organização, versionamento e reprodutibilidade da análise de dados do Trabalho de Conclusão de Curso desenvolvido no curso de **Ciência da Computação**.
 
 O projeto investiga a relação entre **conhecimento técnico**, **percepção de risco** e **comportamentos digitais** relacionados à segurança da informação entre estudantes universitários de cursos de tecnologia.
 
@@ -14,7 +14,7 @@ Analisar possíveis lacunas entre a formação acadêmica em tecnologia e as pr�
 
 ## 📚 Contexto do Estudo
 
-O estudo é baseado em dados coletados por meio de um **questionário estruturado**, aplicado a estudantes dos cursos de **Ciência da Computação** e **Engenharia de Software** da UFC – Campus Russas.
+O estudo é baseado em dados coletados por meio de um **questionário estruturado**, aplicado a estudantes dos cursos de **Ciência da Computação** e **Engenharia de Software**.
 
 A análise considera os seguintes eixos teóricos:
 
@@ -74,13 +74,4 @@ Os procedimentos são realizados de forma incremental, com versionamento a cada 
 ## 📌 Status do Projeto
 
 🟢 Concluído, pórem com possibilidade de revisão ou trabalhos futuros.
-
----
-## 📌 Autoria
-**Pesquisadora:** Isis Nascimento de Lavor  
-**Curso:** Ciência da Computação  
-**Instituição:** Universidade Federal do Ceará – Campus Russas  
-
-**Orientador:** Prof. Ms. Pitágoras Graça Martins (Primeira etapa) / Profa. Ms. Valéria Pinheiro
-
 ---
